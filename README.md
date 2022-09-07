@@ -1,5 +1,5 @@
 # Sauce-Bot
-Bot that hides nhentai's "magic numbers" as rgb valures in images. It can later retrieve them and open the hentai in your default browser.\n
+Bot that hides nhentai's "magic numbers" as rgb valures in images. It can later retrieve them and open the hentai in your default browser.<br />
 See [changelog](changelog.md) to find what's new in each version.
 
 =========================[ USAGE - IMAGE CREATION ]=========================
