@@ -4,5 +4,6 @@ pyinstaller --onefile --icon=n.ico --splash=n-1.3.png --window "Sauce Bot 1.0.3.
 copy "n.ico" "dist"
 copy "changelog.txt" "dist"
 copy "preferences.config" "dist"
+copy "README.md" "dist"
 cd "dist"
 mkdir "Sauces"
