@@ -26,3 +26,4 @@ See [changelog](changelog.md) to find what's new in each version.
  * download the zip file from [releases section](https://github.com/SwaggyBookshelf/Sauce-Bot/releases/) of this project
  * unzip the archive to your desired destination
  * open the Sauce Bot executable to use it
+ * check preferences.config to configure your preferences
