@@ -3,7 +3,7 @@ Bot that hides nhentai's "magic numbers" as rgb valures in images. It can later 
 
 =========================[ USAGE - IMAGE CREATION ]=========================
  * open the tool
- * copy the numbers from nhentai link (\https:\//nhentai.\net/g/*NUMBERS*) for some doujin to textbox titled "Sauce" 
+ * copy the numbers from nhentai link (`https://nhentai.net/g/*NUMBERS*`) for some doujin to textbox titled "Sauce" 
  * tick include hex option if you want the resulting image to include hex of it's colour
  * tick custom message to include text in the resulting image
  * write the text you want to appear on the image inside of the textbox titled "Message"
