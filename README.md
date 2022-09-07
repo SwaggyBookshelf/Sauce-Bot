@@ -1,5 +1,6 @@
 # Sauce-Bot
 Bot that hides nhentai's "magic numbers" as rgb valures in images. It can later retrieve them and open the hentai in your default browser.
+see [changelog](changelog.md) to find what's new in each version.
 
 =========================[ USAGE - IMAGE CREATION ]=========================
  * open the tool
@@ -24,4 +25,4 @@ Bot that hides nhentai's "magic numbers" as rgb valures in images. It can later 
  * ! windows only !
  * download the zip file from [releases section](https://github.com/SwaggyBookshelf/Sauce-Bot/releases/) of this project
  * unzip the archive to your desired destination
- * open the Sauce Bot executable to use
+ * open the Sauce Bot executable to use it
