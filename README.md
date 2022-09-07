@@ -19,3 +19,9 @@ Bot that hides nhentai's "magic numbers" as rgb valures in images. It can later 
  * make sure you have pyinstaller installed
  * open the python file and uncomment lines as instructed
  * run the compile.ps1 script in powershell
+ 
+===============================[ INSTALATION ]==============================
+ * ! windows only !
+ * download the zip file from [releases section](https://github.com/SwaggyBookshelf/Sauce-Bot/releases/) of this project
+ * unzip the archive to your desired destination
+ * open the Sauce Bot executable to use
