@@ -16,7 +16,8 @@ See [changelog](changelog.md) to find what's new in each version.
  * choose the image you want to open
  
 ================================[ COMPILING ]===============================
- * if you are using windows make sure you have all the nessesary python modules installed
+ * ! windows only !
+ * make sure you have all the nessesary python modules installed
  * make sure you have pyinstaller installed
  * open the python file and uncomment lines as instructed
  * run the compile.ps1 script in powershell
