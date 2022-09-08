@@ -204,10 +204,3 @@ Create.pack(side=tk.LEFT)
 Open.pack(side=tk.LEFT)
 
 window.mainloop() 
-
-
-
-
-
-
-
