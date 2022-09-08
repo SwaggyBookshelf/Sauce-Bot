@@ -2,8 +2,8 @@
 
   * added configuration file
   * added default path for image loading and saving to config
-  * added ability to use different website to config
-  * added ability setting to choose what happens when clicking textbox to config
+  * added option to use different website to config
+  * added option to choose what happens when textbox is clicked to config
   * preset text in textboxes gets deleted when clicking them for the first time
   * preset text reappears if the textbox is left empty
   * small improvements to splash image
