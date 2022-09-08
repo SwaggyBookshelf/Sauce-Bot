@@ -16,15 +16,22 @@ See [changelog](changelog.md) to find what's new in each version.
  * choose the image you want to open
  
 ================================[ COMPILING ]===============================
- * ! windows only !
  * make sure you have all the nessesary python modules installed
  * make sure you have pyinstaller installed
  * open the python file and uncomment lines as instructed
+ * ! windows !
  * run the compile.ps1 script in powershell
- 
+ * ! other platforms !
+ * navigate to folder with this script in shell
+ * run the pyinstaller with these parameters --onefile --icon=n.ico --splash=n-1.3.png --window "Sauce Bot 1.0.3.py"
+ * copy config and ico files to the distination with compiled script
+ * create folder named Sauce if you haven't specified different one in config 
+
 ===============================[ INSTALATION ]==============================
  * ! windows only !
  * download the zip file from [releases section](https://github.com/SwaggyBookshelf/Sauce-Bot/releases/) of this project
  * unzip the archive to your desired destination
+ * kinda ignore the trojan warnings, windows just does that with python executables
+ * to stay safe I reccomend compiling the code for yourself or using the python script as is
  * open the Sauce Bot executable to use it
  * check preferences.config to configure your preferences
